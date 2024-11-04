@@ -1,0 +1,14 @@
+C:\Users\vajda.daniel\source\repos\24_11_04\24_11_04\bin\Debug\net8.0\24_11_04.exe
+C:\Users\vajda.daniel\source\repos\24_11_04\24_11_04\bin\Debug\net8.0\24_11_04.deps.json
+C:\Users\vajda.daniel\source\repos\24_11_04\24_11_04\bin\Debug\net8.0\24_11_04.runtimeconfig.json
+C:\Users\vajda.daniel\source\repos\24_11_04\24_11_04\bin\Debug\net8.0\24_11_04.dll
+C:\Users\vajda.daniel\source\repos\24_11_04\24_11_04\bin\Debug\net8.0\24_11_04.pdb
+C:\Users\vajda.daniel\source\repos\24_11_04\24_11_04\obj\Debug\net8.0\24_11_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vajda.daniel\source\repos\24_11_04\24_11_04\obj\Debug\net8.0\24_11_04.AssemblyInfoInputs.cache
+C:\Users\vajda.daniel\source\repos\24_11_04\24_11_04\obj\Debug\net8.0\24_11_04.AssemblyInfo.cs
+C:\Users\vajda.daniel\source\repos\24_11_04\24_11_04\obj\Debug\net8.0\24_11_04.csproj.CoreCompileInputs.cache
+C:\Users\vajda.daniel\source\repos\24_11_04\24_11_04\obj\Debug\net8.0\24_11_04.dll
+C:\Users\vajda.daniel\source\repos\24_11_04\24_11_04\obj\Debug\net8.0\refint\24_11_04.dll
+C:\Users\vajda.daniel\source\repos\24_11_04\24_11_04\obj\Debug\net8.0\24_11_04.pdb
+C:\Users\vajda.daniel\source\repos\24_11_04\24_11_04\obj\Debug\net8.0\24_11_04.genruntimeconfig.cache
+C:\Users\vajda.daniel\source\repos\24_11_04\24_11_04\obj\Debug\net8.0\ref\24_11_04.dll
